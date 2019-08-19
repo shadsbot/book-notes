@@ -1,10 +1,10 @@
 # Book Notes
-A collection of notes from various technical books.
+A collection of notes from various technical books. Incomplete books are denoted by a star.
 
 ## Programming Languages
 
 ### Rust
-[The Rust Programming Language](programming/rust.md)
+*[The Rust Programming Language](programming/rust.md)
 
 ### Go
 [(TBR)](programming/go.md)
