@@ -68,7 +68,7 @@ _by Steve Klabnik and Carol Nichols, with contributions from the Rust Community_
 ## Chapter 4: Understanding Ownership [[more, important]](https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html)
 Most programming languages either leave you to figure out memory management on your own, or they have a gabage collector that will manage memory for you. Rust's approach is to manage memory at compile by using the "ownership" of objects.
 
->### Reveiw: Stack and Heap [[more]](https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#the-stack-and-the-heap)
+>### Review: Stack and Heap [[more]](https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#the-stack-and-the-heap)
 >- Stack operates in LIFO order
 >- Stack data must have a known fixed size
 >- Heap is whatever memory is available of the requested size. Usually in form of a pointer.
